@@ -1,8 +1,3 @@
-// 1. Create a Firebase project.
-// 2. Enable Firestore Database, Storage, and Email/Password Authentication.
-// 3. Create the owner user in Firebase Authentication.
-// 4. Use that Firebase user's password to login.
-
 export const firebaseEnabled = true;
 
 export const ownerEmail = "25011cseai0144@aiml.suh.edu.in";

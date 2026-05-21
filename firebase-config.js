@@ -1,14 +1,12 @@
 // 1. Create a Firebase project.
 // 2. Enable Firestore Database, Storage, and Email/Password Authentication.
-// 3. Replace the values below with your Firebase web app config.
-// 4. Change firebaseEnabled to true.
+// 3. Create the owner user in Firebase Authentication.
+// 4. Use that Firebase user's password to login.
 
 export const firebaseEnabled = true;
 
-// Create this user in Firebase Authentication, then replace this email.
-export const ownerEmail = "the2website.com@gmail.com";
+export const ownerEmail = "25011cseai0144@aiml.suh.edu.in";
 
-// Used only if Firebase cannot connect and the site falls back to local mode.
 export const localOwnerPassword = "owner123";
 
 export const firebaseConfig = {

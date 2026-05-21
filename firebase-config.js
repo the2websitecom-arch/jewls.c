@@ -6,7 +6,7 @@
 export const firebaseEnabled = true;
 
 // Create this user in Firebase Authentication, then replace this email.
-export const ownerEmail = "owner@example.com";
+export const ownerEmail = "the2website.com@gmail.com";
 
 // Used only if Firebase cannot connect and the site falls back to local mode.
 export const localOwnerPassword = "owner123";
